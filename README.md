@@ -52,13 +52,12 @@ King Abdullah University of Science & Technology (KAUST)
     OnePlus Student Ambassador Program
     
     Google Cloud Innovators / Skills Boost Labs
+Bain & company — associate consultant intern
 
-BAIN & COMPANY — ASSOCIATE CONSULTANT INTERN
+Deloitte india — data science internship
 
-DELOITTE INDIA — DATA SCIENCE INTERNSHIP
+Ibm india — associate product manager intern
 
-IBM INDIA — ASSOCIATE PRODUCT MANAGER INTERN
+Swiggy — product management intern (growth / logistics)
 
-SWIGGY — PRODUCT MANAGEMENT INTERN (GROWTH / LOGISTICS)
-
-PWC INDIA — INTERN / TRAINEE (ASSURANCE & ADVISORY)
+Pwc india — intern / trainee (assurance & advisory)
