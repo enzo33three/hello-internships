@@ -31,27 +31,27 @@ King Abdullah University of Science & Technology (KAUST)
 
 # Student Goodies & Swag Programs Calendar (2025-26)
 
-  GitHub Student Developer Pack
-  
-  Google Summer of Code (GSoC)
-  
-  Microsoft Learn Student Ambassadors
-  
-  IBM Z Student Ambassador Program
-  
-  AWS Community Builders Program
-  
-  Hacktoberfest
-  
-  Google Student Ambassador Program (GSA)
-  
-  AWS Educate Student Ambassador Program
-  
-  Intel Student Ambassador Program
-  
-  OnePlus Student Ambassador Program
-  
-  Google Cloud Innovators / Skills Boost Labs
+    GitHub Student Developer Pack
+    
+    Google Summer of Code (GSoC)
+    
+    Microsoft Learn Student Ambassadors
+    
+    IBM Z Student Ambassador Program
+    
+    AWS Community Builders Program
+    
+    Hacktoberfest
+    
+    Google Student Ambassador Program (GSA)
+    
+    AWS Educate Student Ambassador Program
+    
+    Intel Student Ambassador Program
+    
+    OnePlus Student Ambassador Program
+    
+    Google Cloud Innovators / Skills Boost Labs
 
 BAIN & COMPANY — ASSOCIATE CONSULTANT INTERN
 
