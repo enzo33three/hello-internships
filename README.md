@@ -29,7 +29,7 @@ World Bank Internship 2025
 
 King Abdullah University of Science & Technology (KAUST)
 
-#Student Goodies & Swag Programs Calendar (2025-26)
+# Student Goodies & Swag Programs Calendar (2025-26)
 
 GitHub Student Developer Pack
 
