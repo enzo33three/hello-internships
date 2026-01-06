@@ -61,3 +61,5 @@ Ibm india — associate product manager intern
 Swiggy — product management intern (growth / logistics)
 
 Pwc india — intern / trainee (assurance & advisory)
+
+Infosys - Instep Internship 
